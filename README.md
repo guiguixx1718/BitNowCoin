@@ -1,1 +1,1 @@
-# BitNowCoin
+Nuclear
